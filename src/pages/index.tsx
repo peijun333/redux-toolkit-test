@@ -1,5 +1,7 @@
+import { Counter } from "~/Components/Counter";
+
 const Component: React.FC = () => {
-  return <div>index</div>;
+  return <Counter />;
 };
 
 export default Component;
